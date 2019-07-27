@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from D:\test\videojtzw\library\src\main\AndroidManifest.xml
+		INJECTED from D:\test\videojtzw\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:4:22-78
+application
+ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:5:5-8:19
+	android:label
+		ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:6:9-41
+	android:allowBackup
+		ADDED from D:\test\videojtzw\library\src\main\AndroidManifest.xml:5:18-44

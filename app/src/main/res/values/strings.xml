@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">UFU小黄车</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">取消</string>
+    <string name="no_item_found">什么也没有!!</string>
+    <string name="no_fav_found">还没有收藏!!</string>
+    <string name="dev_by">开发者:</string>
+    <string name="latest_video">最新视频</string>
+    <string name="all_video">所有视频</string>
+
+    <string name="login_success">登录成功</string>
+    <string name="login">登录</string>
+    <string name="Username">用户名</string>
+    <string name="Password">密码</string>
+    <string name="go">立即登录</string>
+    <string name="repeat_password">确认密码</string>
+    <string name="next">下一步</string>
+    <string name="register">注册</string>
+    <!-- other message -->
+    <string name="more_btn">更多</string>
+    <string name="related_name">相关推荐</string>
+    <string name="network_msg">没有网络连接!!!</string>
+    <string name="no_data_found">没有数据!!</string>
+    <string name="share_video_msg">你懂的！猫咪官方新出！UFU小黄车，给你寂寞的时候带来无限激情，我刚刚看了这个视频</string>
+    <string name="shareapp_msg">你懂的！猫咪官方新出！UFU小黄车，给你寂寞的时候带来无限激情，限时免费，快来下载吧！</string>
+    <string name="add_favorite_msg">添加到收藏夹</string>
+    <string name="remove_favorite_msg">移除收藏夹</string>
+    <string name="header_title">更多精彩视频</string>
+
+    <!--Drawer Menu -->
+    <string name="menu_allvideo">所有视频</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_latest">最新</string>
+    <string name="menu_category">分类</string>
+    <string name="menu_favorite">我的收藏</string>
+    <string name="menu_about">关于我们</string>
+    <string name="menu_share">分享App</string>
+    <string name="menu_rate">在线客服</string>
+    <string name="menu_privacy">隐私政策</string>
+    <string name="menu_title">作者</string>
+
+    <!-- about us -->
+    <string name="version">版本</string>
+    <string name="author">作者</string>
+    <string name="company">公司</string>
+    <string name="email">电子邮件</string>
+    <string name="website">官方网站</string>
+    <string name="contact">联系电话</string>
+    <string name="about">关于</string>
+
+    <!-- admob id -->
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/</string> <!-- your Banner admob id -->
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/</string> <!-- your admob Interstitial ad id -->
+
+    <!-- youtube -->
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="youtube_api_key">AIzaSyAYJwy6nzCFqgr5LtihRI3YuVBb_34aprw</string>
+    <string name="loading_video">Loading video</string>
+
+    <!--if you want rtl change value of isRTL to true else false-->
+    <string name="isRTL">false</string>
+
+</resources>
